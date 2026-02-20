@@ -1,5 +1,6 @@
 package Modelo;
 
-public class Tipo {
+public enum Tipo {
 
 }
+
